@@ -1,3 +1,6 @@
+#Ilze Akerbergs
+#M03_CaseStudy.py
+#create class Vehicle and inherit that into class Automobile, create year, make, model, doors, roof attributes, input and print out
 class Vehicle():
     def __init__(self):
         self.vehicle_type = None
